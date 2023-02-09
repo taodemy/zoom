@@ -1,4 +1,4 @@
-# Turborepo videocall starter
+# Turborepo videocall
 
 ## What's inside?
 
